@@ -1,4 +1,5 @@
 # 🏥 Abacus Claims RAG Chatbot
+GitHub Repository: https://github.com/ThokalaYashwanth/Abacus-Claims-RAG-Chatbot
 > **A smart AI-powered tool to search and analyze insurance claims data using natural language.**
 
 Ask questions like *"Show all denied claims"* or *"Why are claims being denied?"* and get instant answers with beautiful visualizations.
