@@ -1,5 +1,13 @@
 # 🏥 Abacus Claims RAG Chatbot
 GitHub Repository: https://github.com/ThokalaYashwanth/Abacus-Claims-RAG-Chatbot
+
+## 🤖 Technical Overview
+> **AI-powered RAG chatbot for intelligent insurance claims analysis using LangChain and FastAPI.**
+
+This application combines Retrieval-Augmented Generation (RAG) with large language models to enable natural language querying of insurance claims data, powered by FastAPI backend and React frontend.
+
+---
+
 > **A smart AI-powered tool to search and analyze insurance claims data using natural language.**
 
 Ask questions like *"Show all denied claims"* or *"Why are claims being denied?"* and get instant answers with beautiful visualizations.
