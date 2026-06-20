@@ -101,8 +101,8 @@ The app uses AI from HuggingFace. You need a free account and token:
 
 #### Option B: Using Git (For tech-savvy users)
 ```bash
-git clone https://github.com/kedar-24/Abacus_Claims_RAG_Chatbot.git
-cd Abacus_Claims_RAG_Chatbot
+git clone https://github.com/ThokalaYashwanth/Abacus_Claims_RAG_Chatbot.git
+   cd Abacus_Claims_RAG_Chatbot
 ```
 
 ---
