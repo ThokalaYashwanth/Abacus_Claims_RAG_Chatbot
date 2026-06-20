@@ -1,6 +1,5 @@
 # 🏥 Abacus Claims RAG Chatbot
-GitHub Repository: https://github.com/ThokalaYashwanth/Abacus-Claims-RAG-Chatbot
-
+GitHub Repository: https://github.com/ThokalaYashwanth/Abacus_Claims_RAG_Chatbot
 ## 🤖 Technical Overview
 > **AI-powered RAG chatbot for intelligent insurance claims analysis using LangChain and FastAPI.**
 
